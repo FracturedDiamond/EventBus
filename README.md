@@ -1,2 +1,2 @@
-# AbstractFactoryPlusPlus
-Decorators, Factories, and Abstractedness!
+# Event Bus
+A bus. For events. Oh yeah, it's real.
